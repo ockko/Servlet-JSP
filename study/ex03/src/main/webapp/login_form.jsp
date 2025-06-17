@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>getParameter 실습</h1>
-<form action="login" method="get">
+<form action="login" method="post">
     <fieldset>
         <legend>로그인 폼</legend>
         <ul style="list-style: none">
